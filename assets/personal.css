@@ -7,15 +7,15 @@ body, html {
    text-transform: uppercase;
   background-image: linear-gradient(
     -225deg,
-    #2193b0 0%,
+    #a0e8fa 0%,
     #6dd5ed 29%,
-    #9600ff 67%,
-    #aebaf8 100%
+    #5bb6e7 67%,
+    #208df2 100%
   );
   background-size: auto auto;
   background-clip: border-box;
   background-size: 200% auto;
-  color: #fff;
+  color: rgb(61, 60, 60);
   background-clip: text;
   text-fill-color: transparent;
   -webkit-background-clip: text;
