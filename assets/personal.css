@@ -1,21 +1,23 @@
  /* Set height to 100% for body and html to enable the background image to cover the whole page: */
 body, html {
-  height: 100%
+  height: 100%;
 }
 
 .app {
    text-transform: uppercase;
   background-image: linear-gradient(
     -225deg,
-    #a0e8fa 0%,
-    #6dd5ed 29%,
-    #5bb6e7 67%,
-    #86c0f6 60%
+    #e2f7fd 0%,
+    #baeffb 29%,
+    #8cd2f7 67%,
+    #9ec9f2 60%,
+    #b2d6f8 60%,
+    #d5e5f4 60%
   );
   background-size: auto auto;
   background-clip: border-box;
   background-size: 200% auto;
-  color: rgb(61, 60, 60);
+  color: rgb(251, 250, 250);
   background-clip: text;
   text-fill-color: transparent;
   -webkit-background-clip: text;
