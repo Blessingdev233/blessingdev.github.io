@@ -3,6 +3,13 @@ body, html {
   height: 100%;
 }
 
+a {
+ text-decoration: none;
+}
+a:hover {
+  color: blue;
+}
+
 .app {
    text-transform: uppercase;
   background-image: linear-gradient(
